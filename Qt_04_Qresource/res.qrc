@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>opencv_imgs/321.jpg</file>
+        <file>opencv_imgs/747.jpeg</file>
+        <file>opencv_imgs/747-400.jpg</file>
+        <file>opencv_imgs/boats.bmp</file>
+        <file>opencv_imgs/erode.bmp</file>
+        <file>opencv_imgs/lena.jpg</file>
+        <file>opencv_imgs/lena_Gray.jpg</file>
+        <file>opencv_imgs/match.jpg</file>
+        <file>opencv_imgs/OpenCV.png</file>
+        <file>opencv_imgs/sobel4.bmp</file>
+        <file>opencv_imgs/test</file>
+        <file>opencv_imgs/test2</file>
+        <file>opencv_imgs/test2.jpg</file>
+        <file>opencv_imgs/test3</file>
+        <file>opencv_imgs/test4</file>
+    </qresource>
+</RCC>
